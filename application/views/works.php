@@ -34,7 +34,7 @@
 				background-size: 100% 100%;
 				background-repeat: no-repeat;
 				width:50%;
-				height:76%;
+				height:73%;
 				border:solid;
 				position:absolute;
 				left:50%;
